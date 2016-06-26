@@ -2,10 +2,6 @@
 	box-sizing: border-box;
 }
 
-body{
-	margin-top:70px;
-}
-
 #navbarheader{
 	border-radius: 0;
 	background-color:#0080ff;
